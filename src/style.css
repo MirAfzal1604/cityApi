@@ -1,0 +1,10 @@
+@font-face {
+    font-family: Roboto;
+    src: url(../src/fonts/Roboto-Regular.woff);
+    font-weight: 400;
+}
+
+body {
+    font-family: Roboto;
+    font-weight: 400;
+}
